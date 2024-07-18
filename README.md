@@ -1,3 +1,12 @@
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="lambdagemini.png"/>
+    <source media="(prefers-color-scheme: light)" srcset="lambdagemini.png"/>
+    <img width="400" src="images/lambdagemini.png"/>
+ <br />
+</h1>
+
+
 # Lambda & Google Gemini Integration
 
 ## Overview
